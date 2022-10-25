@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Utee :)
-- 👀 I’m into Data Science 
-- 🌱 I’m currently learning Data Science with Python, SQL, Tableau and PowerBI on DataCamp, Coursera, Pluralsight and Udacity and also Machine Learning.
+- 👀 I’m into Data Engineering
+- 🌱 I’m currently learning Data Science and Engineering with Python, SQL, Tableau and PowerBI on DataCamp, Coursera, Pluralsight and Udacity and also Machine Learning.
 - 💞️ I’m looking to collaborate on Data Cleaning, Visualization, Exploratory Data Analysis and Predictions.
 - 📫 You can reach me on LinkedIn @ linkedin.com/in/utomi-ogbe/
 
